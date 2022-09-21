@@ -1,0 +1,31 @@
+{
+  "name": "template_1",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/vue-fontawesome": "^3.0.1",
+    "axios": "^0.27.2",
+    "gsap": "^3.11.1",
+    "node-sass": "^7.0.3",
+    "pinia": "^2.0.22",
+    "reset-css": "^5.0.1",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "sass": "^1.54.5",
+    "sass-loader": "^13.0.2",
+    "vite": "^3.0.7"
+  }
+}
